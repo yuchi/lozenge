@@ -3,7 +3,7 @@
 
 Diamond inheritance with ES6 Proxies.
 
-As of writing work only on Firefox.
+As of writing works only on Firefox.
 
 ```
 $ npm install lozenge
